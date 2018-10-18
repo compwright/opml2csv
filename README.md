@@ -1,2 +1,7 @@
 # opml2csv
-OPML to CSV convertor
+
+Stupid-simple OPML to CSV converter. Enjoy!
+
+## License
+
+MIT License
